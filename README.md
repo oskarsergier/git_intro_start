@@ -4,7 +4,7 @@ Dit project wordt gecombineerd met het vak Gebruiksgericht Ontwerpen, waarin een
 
 De ReServeBox werkt in samenwerking met externe partners, waarbij voedseloverschotten professioneel worden samengesteld en vervolgens via lockers beschikbaar worden gesteld. Gebruikers ontvangen via de app een code waarmee ze hun pakket kunnen ophalen uit een specifieke locker. Dit zorgt voor een gecontroleerde en veilige manier van voedselherverdeling.
 
-Binnen dit project ligt de focus op het ontwikkelen van de elektronica en interactielogica van het lockersysteem. Hiervoor wordt gewerkt met een Arduino, een capacitief touch keypad en een lcd display om de interactie met de gebruiker te ondersteunen. Daarnaast wordt de koppeling gemaakt met de mobiele app, zodat een vlotte en intuïtieve gebruikerservaring ontstaat.
+Binnen dit project ligt de focus op het ontwikkelen van de elektronica en interactielogica van het lockersysteem. Hiervoor wordt gewerkt met een Arduino, een capacitief touch keypad en een lcd display om de interactie met de gebruiker te ondersteunen. Ook de mogelijkheid om sloten te verbinden aan de arduino, de code zorgt ervoor dat het slot dat hoort bij de ingegeven code zal opengaan. Daarnaast wordt de koppeling gemaakt met de mobiele app, zodat een vlotte en intuïtieve gebruikerservaring ontstaat.
 
 De volledige loopbaan van dit project is terug te vinden bij [Problemen](/docs/problemen.md). Hier kun je vinden op welke problemen er werden gestoten en hoe deze opgelost werden.
 
